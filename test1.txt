@@ -1,2 +1,1 @@
 created test1.txt file
-now i have editted this file to know about pull command 
